@@ -1,6 +1,6 @@
 # dashboard-visual
 
-This is my repo where I will share all the visuals of all the dasboards I've done since I've decided to become a Data Analyst. 
+This is my repo where I will share all the visuals of all the dasboards I've done since I've decided to become a Data Analyst. For now, all of them have been done on Power BI. But I plan to learn to use Tableau in the future too !
 
 ---
 
