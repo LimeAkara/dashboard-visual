@@ -50,7 +50,7 @@ A fictional vending machines owner has stocks issues because he only refills his
 
 Conclusion preview : 
 
-[![Evolution-des-stocks.png](https://i.postimg.cc/BvhMZDDG/Evolution-des-stocks.png)](https://postimg.cc/PLwm2C26)
+[![Evolution-des-stocks.png](https://i.postimg.cc/dtVyjXTw/Evolution-des-stocks.png)](https://postimg.cc/V52vYKRV)
 
 --- 
 
@@ -60,7 +60,7 @@ A fictional bike rental company wants to open more stations and acquire more pre
 
 Preview :
 
-[![G-n-ral.png](https://i.postimg.cc/prk6j75p/G-n-ral.png)](https://postimg.cc/wRy28wVp)
+[![G-n-ral.png](https://i.postimg.cc/0yDKkJ6H/G-n-ral.png)](https://postimg.cc/9DXQ10YG)
 
 ---
 
